@@ -1,0 +1,1 @@
+GraphicsPerf.exe -force-d3d12 -force-gfx-jobs legacy

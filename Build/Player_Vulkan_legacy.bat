@@ -1,0 +1,1 @@
+GraphicsPerf.exe -force-vulkan -force-gfx-jobs legacy

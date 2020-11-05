@@ -1,0 +1,1 @@
+GraphicsPerf.exe -force-glcore -force-gfx-mt
